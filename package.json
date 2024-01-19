@@ -10,12 +10,13 @@
   },
   "dependencies": {
     "@portabletext/react": "^3.0.11",
+    "@sanity/vision": "^3.25.0",
     "next": "14.0.3",
     "next-sanity": "^7.0.1",
     "next-sanity-client": "^1.0.7",
     "react": "^18",
     "react-dom": "^18",
-    "sanity": "^3.20.2"
+    "sanity": "^3.25.0"
   },
   "devDependencies": {
     "@types/node": "^20",
